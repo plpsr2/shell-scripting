@@ -1,7 +1,7 @@
 #!/bin/bash
 
 Hello(){
-	echo "Hello!!! $1"
+	echo "Hello!!! $1"deleted
 	echo "Script Name: $0"
 	echo "Number of args: $#"
 	echo "All args are: $@"
